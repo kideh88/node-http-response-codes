@@ -12,7 +12,7 @@ Install using `npm install node-httpresponse-codes`
 ## Usage
 
 ```
-let ERROR_CODE =
+let ERROR_CODE = require('httpResponseCodes');
 ```
 
 
