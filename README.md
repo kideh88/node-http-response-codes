@@ -10,6 +10,10 @@ Install using `npm install http-response-codes`
 
 ```
 let ERROR_CODE = require('httpResponseCodes');
+
+console.log(ERROR_CODE.HTTP_NOT_FOUND);     // Outputs code '404' as integer
+console.log(ERROR_CODE.HTTP_UNAUTHORIZED);  // Outputs code '401' as integer
+
 ```
 
 
