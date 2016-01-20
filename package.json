@@ -1,5 +1,5 @@
 {
-  "name": "node-httpresponse-codes",
+  "name": "http-response-codes",
   "version": "1.0.0",
   "description": "Module to export all the HTTP response codes",
   "main": "src/httpResponseCodes.js",
