@@ -1,0 +1,20 @@
+{
+  "name": "node-httpresponse-codes",
+  "version": "1.0.0",
+  "description": "Module to export all the HTTP response codes",
+  "main": "src/httpResponseCodes.js",
+  "scripts": {
+    "test": "echo \"No tests necessary for this repo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kideh88/node-httpresponse-codes.git"
+  },
+  "keywords": ["node", "nodejs", "http", "codes", "response", "constants", "export", "exports"],
+  "author": "Kim Dehmlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kideh88/node-httpresponse-codes/issues"
+  },
+  "homepage": "https://github.com/kideh88/node-httpresponse-codes#readme"
+}
