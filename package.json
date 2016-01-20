@@ -4,7 +4,7 @@
   "description": "Module to export all the HTTP response codes",
   "main": "src/httpResponseCodes.js",
   "scripts": {
-    "test": "echo \"No tests necessary for this repo\""
+    "test": "echo \"No tests necessary for this repository\""
   },
   "repository": {
     "type": "git",
