@@ -2,6 +2,8 @@
 
 Module to export all the HTTP response codes as constants
 
+Helps you on returning proper response codes in your node application without manually defining every code you need to use.
+
 ## Installation
 
 Install using `npm install http-response-codes`
