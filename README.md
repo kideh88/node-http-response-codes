@@ -4,9 +4,11 @@ Module to export all the HTTP response codes as constants
 
 Helps you on returning proper response codes in your node application without manually defining every code you need to use.
 
+Better code readability with constant names instead of numbers only. Auto-complete functionality should be able to suggest the code names you are looking for.
+
 ## Installation
 
-Install using `npm install http-response-codes`
+Install using  `npm install http-response-codes`
 
 ## Usage
 
